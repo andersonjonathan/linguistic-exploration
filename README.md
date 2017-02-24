@@ -2,13 +2,13 @@
 Testing out different languages by implementing a palindrome checker.
 
 ## Languages
+* [Ada {40} (2017-02-24)](https://github.com/andersonjonathan/linguistic-exploration/tree/master/Ada)
 * [Bash {19} (2017-02-11)](https://github.com/andersonjonathan/linguistic-exploration/tree/master/Bash)
 * [Python2 {3} (2017-02-11)](https://github.com/andersonjonathan/linguistic-exploration/tree/master/Python2)
 * [Python3 {3} (2017-02-11)](https://github.com/andersonjonathan/linguistic-exploration/tree/master/Python3)
 * [Rust {26} (2017-02-10)](https://github.com/andersonjonathan/linguistic-exploration/tree/master/Rust)
 
 ## List of languages to implement in
-* [Ada {40} ()](https://github.com/andersonjonathan/linguistic-exploration/tree/master/Ada)
 * [Assembly {13} ()](https://github.com/andersonjonathan/linguistic-exploration/tree/master/Assembly)
 * [BASIC ()](https://github.com/andersonjonathan/linguistic-exploration/tree/master/BASIC)
 * [Brainfuck ()](https://github.com/andersonjonathan/linguistic-exploration/tree/master/Brainfuck)

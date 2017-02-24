@@ -1,3 +1,8 @@
 .idea
 /Rust/target/
 /Rust/Cargo.lock
+/Ada/main
+/Ada/main.ali
+/Ada/main.o
+/Ada/palindrome.ali
+/Ada/palindrome.o
